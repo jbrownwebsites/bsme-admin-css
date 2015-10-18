@@ -10,10 +10,10 @@
   <body>
 
       <div class="row">
-        <div class="large-3 columns">
+        <div class="large-3 medium-3 columns">
           <h1><img src="http://placehold.it/400x100&text=Logo" style="width: 100%;"/></h1>
         </div>
-        <div class="large-9 columns">
+        <div class="large-9 medium-9 columns">
           <ul class="right button-group">
           <li><a href="#" class="button">Link 1</a></li>
           <li><a href="#" class="button">Link 2</a></li>
@@ -36,19 +36,19 @@
      
      
       <div class="row">
-        <div class="large-4 columns">
+        <div class="large-4 medium-4 columns">
           <img src="http://placehold.it/400x300&text=[img]" style="width: 100%;"/>
           <h4>This is a content section.</h4>
           <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
         </div>
         
-        <div class="large-4 columns">
+        <div class="large-4 medium-4 columns">
           <img src="http://placehold.it/400x300&text=[img]" style="width: 100%;"/>
           <h4>This is a content section.</h4>
           <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
         </div>
         
-        <div class="large-4 columns">
+        <div class="large-4 medium-4 columns">
           <img src="http://placehold.it/400x300&text=[img]" style="width: 100%;"/>
           <h4>This is a content section.</h4>
           <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
@@ -62,12 +62,11 @@
         
           <div class="panel">
             <h4>Get in touch!</h4>
-                
             <div class="row">
-              <div class="large-9 columns">
+              <div class="large-9 medium-9 columns">
                 <p>We'd love to hear from you, you attractive person you.</p>
               </div>
-              <div class="large-3 columns">
+              <div class="large-3 medium-3 columns">
                 <a href="#" class="radius button right">Contact Us</a>
               </div>
             </div>
@@ -82,10 +81,10 @@
         <div class="large-12 columns">
           <hr/>
           <div class="row">
-            <div class="large-6 columns">
+            <div class="large-6 medium-6 columns">
               <p>&copy; Copyright no one at all. Go to town.</p>
             </div>
-            <div class="large-6 columns">
+            <div class="large-6 medium-6 columns">
               <ul class="inline-list right">
                 <li><a href="#">Link 1</a></li>
                 <li><a href="#">Link 2</a></li>
